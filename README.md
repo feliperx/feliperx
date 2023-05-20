@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Back-End: 
+
+<br> 
+
+Front-End:

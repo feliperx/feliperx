@@ -15,18 +15,17 @@
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
  -->
-Front-End:<br>
+✨ Front-End:<br>
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                   
-<br> 
 
-Back-End:<br>
+🧮 Back-End:<br>
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-DevOps | DB:<br>
+⚙️ DevOps | DB:<br>
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <tab>

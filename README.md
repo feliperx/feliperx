@@ -1,5 +1,5 @@
 
-### Hi there  💻:brazil:
+### Hi there  💻
 
 
 
